@@ -1,0 +1,1 @@
+Dataset is a preprocessed version of Kaggle competition: https://www.kaggle.com/competitions/walmart-recruiting-store-sales-forecasting
